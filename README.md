@@ -17,7 +17,7 @@ was important to know the performance of the current products.
 You have been employed as a Data Analyst in the Growth
 and Strategy Department of Nestle and asked to develop a
 product comparison dashboard to help the company take a
-decision on its expansion plans
+decision on its expansion plans based on the randomly generated dataset provided
 
 
 # Conclusions and Recommendations
